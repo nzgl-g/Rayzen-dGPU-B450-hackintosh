@@ -1,7 +1,8 @@
 # Rayzen-dGPU-B450-hackintosh
 OpenCore EFI for B450 Chipset Motherboard with AMD Ryzen 6 cores with + Radeon RX 580 Graphics Card.
 
-WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
+WARNING ⚠️: i hope whatever the user of this repo hve some knowlage abt the hardware cuz this make ure component at risk 
+I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
 | CPU                     |  6 cores AMD CPU                  |  This EFI is using a 6 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
